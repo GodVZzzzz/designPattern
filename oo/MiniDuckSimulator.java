@@ -1,4 +1,4 @@
-package designmodel.oo;
+package designpattern.oo;
 
 /**
  * @author Zhang

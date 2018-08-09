@@ -1,7 +1,6 @@
-package designmodel.observermodel.observerapi;
+package designpattern.observerpattern.observerapi;
 
-import designmodel.observermodel.makeobserver.DisplayElement;
-import designmodel.observermodel.makeobserver.WeatherData;
+import designpattern.observerpattern.makeobserver.DisplayElement;
 
 import java.util.Observable;
 import java.util.Observer;

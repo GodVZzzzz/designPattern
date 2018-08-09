@@ -1,4 +1,4 @@
-package designmodel.decorator.mydecorator;
+package designpattern.decorator.mydecorator;
 
 /**
  * @author Zhang

@@ -1,4 +1,4 @@
-package designmodel.observermodel.observerapi;
+package designpattern.observerpattern.observerapi;
 
 /**
  * @author Zhang

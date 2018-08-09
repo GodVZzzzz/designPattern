@@ -1,4 +1,4 @@
-package designmodel.observermodel.makeobserver;
+package designpattern.observerpattern.makeobserver;
 
 import java.util.ArrayList;
 import java.util.Collections;

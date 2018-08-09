@@ -1,4 +1,4 @@
-package designmodel.decorator.iodecorator;
+package designpattern.decorator.iodecorator;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;

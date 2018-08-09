@@ -1,4 +1,4 @@
-package designmodel.observermodel.observerapi;
+package designpattern.observerpattern.observerapi;
 
 import java.util.Observable;
 
